@@ -2,6 +2,12 @@
 
 ## Introduction
 A dotnet CLI supporting power users searching for ways to avoid executing redundant steps in the environment regarding cleanup and setup before executing programs. 
+
+## What is a senzu bean?
+
+> Senzu Beans (仙豆 Senzu, lit. "Hermit Bean") are mystical beans with immense rejuvenation properties in the Dragon Ball franchise.
+> <br/>
+> Source: https://dragonball.fandom.com/wiki/Senzu_Bean
  
 ## Motivations
 There are always concerns on my end wherenver I start working on a specific project due to having a dirty environment and thinking about what needs to get done to cleaning and setting it up before I can debug my way through the problem that I am facing. I got tired of keeping track of different solutions and would rather have a centralized approach allowing me do everything in a single location.
