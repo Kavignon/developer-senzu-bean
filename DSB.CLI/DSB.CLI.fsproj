@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DBS.Infrastructure\DBS.Infrastructure.fsproj" />
     <ProjectReference Include="..\DSB.Domain\DSB.Domain.fsproj" />
   </ItemGroup>
 

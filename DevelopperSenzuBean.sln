@@ -7,6 +7,8 @@ Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "DSB.CLI", "DSB.CLI\DSB.CLI.
 EndProject
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "DSB.Domain", "DSB.Domain\DSB.Domain.fsproj", "{EE293999-07AD-4D99-A26A-E5DFF3927852}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "DBS.Infrastructure", "DBS.Infrastructure\DBS.Infrastructure.fsproj", "{59D91C17-6B8A-49B4-8D0C-D1C038D0036A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EE293999-07AD-4D99-A26A-E5DFF3927852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE293999-07AD-4D99-A26A-E5DFF3927852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE293999-07AD-4D99-A26A-E5DFF3927852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59D91C17-6B8A-49B4-8D0C-D1C038D0036A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59D91C17-6B8A-49B4-8D0C-D1C038D0036A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59D91C17-6B8A-49B4-8D0C-D1C038D0036A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59D91C17-6B8A-49B4-8D0C-D1C038D0036A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
